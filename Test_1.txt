@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tecambiolaramaporquesoyguay
 
 pues no se que estoy haciendo
+=======
+hello
+>>>>>>> master
